@@ -1,12 +1,12 @@
 # Bulker Rename Desktop tool
 
-This tool allows you to perform bulk renaming in your files or on your PC.
+This tool allows you to perform bulk renaming in your files or directories on your PC.
 
 
 
 ## How we can use??
 
-Let's suppose I have a Computer That contains 200 files or 200 folders and all those files contain my name as "Harshal", and let's suppose sometimes we make a mistake in writing the actual name & written the spelling of the name incorrectly (Hershal).
+Let's suppose I have a Computer That contains 200 files and all those files contain my name as "Harshal", and let's suppose sometimes we make a mistake in writing the actual name & written the spelling of the name incorrectly (Hershal).
 
 But I want my name to be written as (Harshal)So to solve this problem I can use this bulk rename desktop tool.
 
